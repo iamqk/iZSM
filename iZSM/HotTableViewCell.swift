@@ -10,6 +10,7 @@ import UIKit
 import SmthConnection
 
 class HotTableViewCell: UITableViewCell {
+    
     let setting = AppSetting.shared
     let titleLabel = UILabel()
     let boardLabel = NTLabel()
